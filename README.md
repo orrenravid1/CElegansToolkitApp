@@ -1,2 +1,2 @@
-# C-ElegansToolkitApp
+# CElegansToolkitApp
 A repository to host the executable application of the C elegans toolkit
