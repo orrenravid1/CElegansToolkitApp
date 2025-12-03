@@ -1,0 +1,303 @@
+Neuron,Description
+ADAL,"ADAL is a left anterior interneuron situated near the head ganglia. It participates in integrating sensory input from amphid neurons and modulating downstream circuits related to locomotion and head movement. Its bilateral counterpart, ADAR, mirrors its function and connectivity."
+ADAR,"ADAR is the right counterpart to ADAL, functioning as an anterior interneuron that receives inputs from sensory neurons and relays them to premotor networks. It contributes to directional head responses and coordination of anterior motor output."
+ADEL,ADEL is a left anterior sensory neuron involved in mechanosensory and possibly chemosensory processing. It detects external cues around the head and transmits information to head interneurons influencing orientation behavior.
+ADER,ADER is the right sensory neuron counterpart to ADEL. It processes environmental stimuli such as touch or chemical gradients near the head and relays information to motor integration circuits.
+ADFL,ADFL is a left amphid sensory neuron specialized for chemosensation. It detects water-soluble attractants and transmits chemical cues to interneurons that guide navigation and feeding behavior.
+ADFR,ADFR is the right amphid chemosensory neuron complementing ADFL. It contributes to detecting environmental odorants and mediating chemotactic movement toward favorable conditions.
+ADLL,ADLL is a left amphid sensory neuron with mixed chemosensory and nociceptive properties. It detects chemical repellents and participates in avoidance and aversive learning behaviors.
+ADLR,ADLR is the right amphid sensory neuron paired with ADLL. It senses chemical and mechanical stimuli associated with noxious conditions and informs circuits controlling withdrawal and turning.
+AFDL,AFDL is a left amphid neuron sensitive to temperature and CO₂ levels. It helps the worm orient to preferred thermal and gas environments and modulates locomotion accordingly.
+AFDR,"AFDR is the right thermosensory and CO₂-responsive amphid neuron. Together with AFDL, it provides bilateral input for thermotaxis and gas-avoidance behaviors."
+AIAL,AIAL is a left head interneuron that integrates sensory inputs from amphid neurons and distributes them to downstream interneurons. It contributes to chemotaxis and thermotaxis decision-making.
+AIAR,AIAR is the right interneuron homolog to AIAL. It participates in integrating multimodal sensory information and helps modulate locomotor state changes based on environmental cues.
+AIBL,AIBL is a left head interneuron that acts as a central hub for sensory-motor integration. It receives inputs from chemosensory neurons and influences behavioral reversals and turning frequency.
+AIBR,AIBR is the right interneuron counterpart to AIBL. It modulates navigation strategy and reversals in response to changing sensory gradients.
+AIML,AIML is a left interneuron located near the nerve ring. It integrates inputs from head sensory neurons and modulates behavioral states such as quiescence and social feeding patterns.
+AIMR,"AIMR is the right counterpart to AIML, working jointly to modulate internal state-dependent behaviors via neuromodulatory transmission."
+AINL,AINL is a left anterior interneuron that links sensory processing to motor decision circuits. It influences head movement and locomotor transitions through graded activity changes.
+AINR,AINR is the right member of the AIN interneuron pair. It provides bilateral integration of sensory signals for coherent head orientation and motor coordination.
+AIYL,AIYL is a left interneuron integrating sensory information from chemosensory neurons and controlling turning bias during navigation. It is part of the circuit implementing klinotaxis behavior.
+AIYR,"AIYR is the right partner of AIYL, contributing to modulation of turning and head swings based on sensory gradient detection."
+AIZL,AIZL is a left interneuron positioned near the nerve ring that functions as a relay between sensory neurons and command interneurons. It is critical for chemotaxis and thermotaxis steering decisions.
+AIZR,"AIZR is the right counterpart to AIZL, forming a bilateral pair that helps translate chemical and thermal cues into directed motor output."
+ALA,ALA is a single interneuron with modulatory and mechanosensory properties. It regulates sleep-like quiescent states and body posture and can release neuropeptides to adjust motor tone.
+ALML,ALML is a left mechanosensory neuron detecting gentle touch along the anterior body. It triggers withdrawal and avoidance behavior through activation of interneuron networks.
+ALMR,ALMR is the right mechanosensory neuron complementing ALML. It senses gentle anterior touch and mediates corresponding reflex responses to tactile stimulation.
+ALNL,ALNL is a left neuron of unclear function near the lateral ganglion. It may serve an integrative role between sensory input and motor circuits in the head region.
+ALNR,"ALNR is the right analog of ALNL with similar uncertain function, potentially acting in sensory-motor coordination or neuromodulation."
+AQR,AQR is a single oxygen-sensing neuron located near the head. It detects oxygen concentration and modulates locomotor speed and reversal frequency to maintain optimal gas exposure.
+AS1,AS1 is an anterior motor neuron in the ventral cord contributing to dorsal muscle activation during backward locomotion. It participates in generating wave propagation for reverse movement.
+AS10,AS10 is a posterior AS-class motor neuron coordinating late-phase dorsal contraction during reversals. It maintains rhythmic integrity of backward motion.
+AS11,"AS11 is the terminal AS-class motor neuron, innervating dorsal tail muscles to complete reverse locomotion and retraction movements."
+AS2,AS2 is a motor neuron that innervates dorsal muscles in the anterior ventral cord. It coordinates bending patterns during backward movement.
+AS3,AS3 is a dorsal motor neuron that assists in producing the reversal waveform by driving anterior dorsal muscle contraction.
+AS4,AS4 is a midbody dorsal motor neuron in the AS class supporting backward locomotion by coordinating contractions with neighboring AS neurons.
+AS5,AS5 is a dorsal motor neuron contributing to posterior extension of the reversal wave. It ensures continuity of dorsal contraction during backward movement.
+AS6,AS6 is a posterior AS-class motor neuron aiding in the final segments of reverse locomotion. It synchronizes dorsal contractions near the tail.
+AS7,AS7 is a posterior ventral cord motor neuron coordinating with AS6 for sustained dorsal activation during reversal behavior.
+AS8,AS8 is a dorsal motor neuron operating in the posterior cord to complete the reverse locomotion sequence.
+AS9,"AS9 is one of the most posterior AS-class neurons, finalizing dorsal muscle activity during reversals and contributing to tail posture."
+ASEL,ASEL is a left chemosensory neuron specialized for detecting water-soluble attractants such as salts. It encodes positive gradients to promote approach behavior during chemotaxis.
+ASER,"ASER is the right chemosensory neuron complementing ASEL, responding oppositely to certain ion gradients to guide bidirectional chemotactic navigation."
+ASGL,"ASGL is a left amphid sensory neuron detecting specific soluble cues, including amino acids. It contributes to chemotactic orientation and feeding responses."
+ASGR,ASGR is the right chemosensory neuron paired with ASGL. It transmits chemical information to head interneurons guiding navigational behavior.
+ASHL,"ASHL is a left amphid sensory neuron that responds to osmotic, mechanical, and chemical repellents. It triggers avoidance and escape behaviors via downstream interneurons."
+ASHR,ASHR is the right amphid nociceptive neuron counterpart to ASHL. It detects aversive stimuli and mediates rapid withdrawal reflexes.
+ASIL,ASIL is a left amphid sensory neuron responsive to chemical and thermal cues. It helps modulate orientation toward or away from gradients of odor and temperature.
+ASIR,ASIR is the right amphid sensory neuron paired with ASIL. It integrates multimodal sensory input for directional movement control.
+ASJL,ASJL is a left sensory neuron in the amphid with roles in detecting specific odorants and soluble compounds. It contributes to chemosensory mapping of the head environment.
+ASJR,"ASJR is the right sensory neuron of the same type as ASJL, participating in bilateral chemosensory detection and orientation."
+ASKL,ASKL is a left amphid sensory neuron specialized for chemosensation of pheromonal or attractant compounds. It aids in social and environmental navigation.
+ASKR,ASKR is the right amphid chemosensory neuron complementing ASKL. It transmits chemical information modulating attraction and aggregation behavior.
+AUAL,AUAL is a left head interneuron integrating sensory information from amphid neurons and influencing locomotor direction. It contributes to processing of chemical cues during navigation.
+AUAR,"AUAR is the right counterpart of AUAL, coordinating with it to mediate sensory-driven orientation changes and head motor activity."
+AVAL,AVAL is a left command interneuron that drives backward locomotion. It connects to dorsal and ventral motor neurons to initiate and maintain reversals.
+AVAR,AVAR is the right command interneuron complementing AVAL. It coordinates with AVAL to generate symmetrical reverse waves and initiate backward crawling.
+AVBL,AVBL is a left command interneuron responsible for forward locomotion. It provides excitatory drive to B-class motor neurons controlling ventral and dorsal muscle contraction.
+AVBR,AVBR is the right forward command interneuron complementing AVBL. It sustains rhythmic motor activity during forward movement.
+AVDL,AVDL is a left interneuron linking sensory input to command circuits. It helps regulate transitions between forward and reverse locomotion based on external stimuli.
+AVDR,"AVDR is the right interneuron complementing AVDL, contributing to adaptive motor transitions in response to sensory context."
+AVEL,AVEL is a left interneuron near the nerve ring that communicates between sensory neurons and motor commands. It modulates locomotor initiation.
+AVER,"AVER is the right interneuron corresponding to AVEL, supporting coordinated locomotor pattern switching."
+AVFL,"AVFL is a left interneuron associated with ventral cord integration, transmitting signals from anterior sensory inputs to motor command circuits."
+AVFR,"AVFR is the right homolog of AVFL, sharing similar relay functions between sensory and motor systems."
+AVG,AVG is a single unpaired interneuron running along the ventral cord. It integrates bilateral sensory and motor information and participates in central coordination of locomotion.
+AVHL,AVHL is a left head interneuron involved in motor control and sensory feedback integration. It modulates forward locomotion through synaptic outputs to motor neurons.
+AVHR,"AVHR is the right interneuron homolog to AVHL, operating in parallel to sustain rhythmic forward waves."
+AVJL,AVJL is a left head interneuron connecting sensory neurons to motor networks. It participates in behavioral decision circuits that determine direction changes.
+AVJR,"AVJR is the right head interneuron complementing AVJL, ensuring bilateral coordination of head movement during locomotion."
+AVKL,AVKL is a left interneuron involved in integrating neuromodulatory input related to locomotor state. It connects to both motor and sensory neurons.
+AVKR,"AVKR is the right interneuron complementing AVKL, providing symmetrical modulation of motor output during behavior state transitions."
+AVL,"AVL is a polymodal neuron with both interneuron and motor functions. It plays a key role in the defecation motor program, driving enteric muscle contraction and coordinating expulsion behavior."
+AVM,AVM is an anterior mechanosensory neuron responsible for detecting touch on the ventral surface. It triggers rapid withdrawal by activating command interneurons.
+AWAL,AWAL is a left olfactory neuron detecting volatile odorants. It contributes to chemotactic attraction and head orientation toward food sources.
+AWAR,"AWAR is the right olfactory neuron pairing with AWAL, sensing volatile cues and guiding approach behaviors."
+AWBL,"AWBL is a left olfactory neuron responsive to volatile chemicals, contributing to odor-driven navigation and search behavior."
+AWBR,AWBR is the right olfactory neuron counterpart to AWBL. It works bilaterally to ensure accurate odor gradient tracking.
+AWCL,AWCL is a left amphid sensory neuron responsive to both odors and temperature changes. It modulates chemotaxis and thermotaxis behaviors based on environmental gradients.
+AWCR,"AWCR is the right amphid sensory neuron with similar dual odor-temperature sensitivity, complementing AWCL for bilateral environmental detection."
+BAGL,BAGL is a left sensory neuron detecting internal CO₂ and oxygen levels. It modulates respiration-related behaviors and navigational avoidance of high CO₂ regions.
+BAGR,"BAGR is the right sensory neuron partner to BAGL, contributing to gas sensing and modulation of locomotor patterns in response to environmental oxygen or CO₂."
+BDUL,BDUL is a left interneuron in the dorsal ganglion that integrates head sensory inputs with anterior motor outputs. It aids coordination of head movements during navigation.
+BDUR,"BDUR is the right counterpart to BDUL, providing parallel integration for dorsal motor coordination and sensory-motor feedback."
+CANL,"CANL is a left lateral neuron extending long processes along the body. Its exact function remains unclear, but it is implicated in maintaining structural integrity and possibly transmitting metabolic or positional information."
+CANR,CANR is the right analog of CANL with similar morphology and function. It likely contributes to structural or modulatory signaling along the lateral body.
+CEPDL,CEPDL is a left cephalic sensory neuron with putative mechanosensory properties. It detects touch near the head and provides feedback to head motor circuits controlling orientation.
+CEPDR,"CEPDR is the right cephalic neuron complementing CEPDL, contributing to head mechanosensory feedback and balance of directional motion."
+CEPVL,CEPVL is a left ventral cephalic sensory neuron likely involved in gentle touch perception. It forms part of the cephalic mechanosensory network controlling head positioning.
+CEPVR,"CEPVR is the right ventral cephalic mechanosensory neuron, completing the bilateral set that regulates head movement and contact responses."
+DA1,"DA1 is the most anterior cholinergic motor neuron of the dorsal A class. It innervates dorsal body-wall muscles near the head and initiates posteriorly propagating bends during reverse locomotion, handing the wave to downstream DA neurons."
+DA2,DA2 is an anterior DA-class cholinergic motor neuron that activates dorsal muscles just posterior to DA1. It sustains early-phase reverse bends and helps couple head posture to the onset of backward movement.
+DA3,"DA3 is a cholinergic DA motor neuron in the anterior body. It reinforces dorsal contraction as the reversal wave moves rearward, preserving phase and amplitude between adjacent segments."
+DA4,DA4 is a midbody DA-class motor neuron that drives dorsal muscle activation during reversals through the worm's midsection. It maintains continuity of the reverse bending pattern between anterior and posterior units.
+DA5,DA5 is a mid-posterior DA motor neuron that relays the reverse locomotion wave toward the tail. Its outputs help keep dorsal-ventral alternation properly phased under strong backward drives.
+DA6,DA6 is a posterior DA-class cholinergic motor neuron innervating dorsal body-wall muscles. It supports late-phase reverse locomotion and coordinates with DA7-DA9 to complete the posterior sequence.
+DA7,DA7 is a posterior DA motor neuron contributing to dorsal bends near the tail during reversals. It preserves waveform integrity as the reverse wave approaches the posterior tip.
+DA8,DA8 is a tail-proximal DA-class motor neuron that provides strong dorsal drive in the final segments of reverse locomotion. It hands off to DA9 to finish the posterior phase cleanly.
+DA9,"DA9 is a posterior cholinergic motor neuron of the dorsal A (DA) class. Its soma is located near the tail and it projects an axon along the dorsal nerve cord to innervate dorsal body-wall muscles. DA9 participates primarily in reverse locomotion by activating dorsal bends in the posterior body. Because of its stereotyped compartments and synaptic zones, it is frequently used as a model for studies of axon guidance, synapse placement, and regeneration."
+DB1,"DB1 is the most anterior member of the DB cholinergic motor-neuron array in the ventral nerve cord. Like other DB neurons, it sends processes to dorsal body-wall muscles and promotes forward locomotion by driving dorsal bends. DB1 helps translate premotor interneuron activity into rhythmic, segmental contraction in the neck and anterior body. Its position and connectivity make it a useful reference point for mapping the DB series."
+DB2,DB2 is a cholinergic ventral-cord motor neuron of the DB class that excites dorsal body-wall muscles. It participates in forward locomotion by coordinating dorsal bending just posterior to the head. DB2 receives input from premotor interneurons and works with adjacent DB neurons to propagate the forward-moving contractile wave. Its morphology and synaptic targets are stereotyped across animals.
+DB3,"DB3 is a DB-class cholinergic motor neuron positioned in the anterior mid-body. It innervates dorsal muscles and contributes to forward locomotion by generating appropriately phased dorsal bends. DB3 functions in concert with neighboring DB units to maintain waveform continuity, ensuring smooth propagation of the locomotor wave from head toward tail."
+DB4,DB4 is a mid-body DB cholinergic motor neuron that projects to dorsal body-wall muscles. It helps sustain the amplitude and timing of dorsal contractions during forward movement as the wave passes through the worm's midsection. DB4 integrates inputs from premotor interneurons and gap-junction partners to keep the bending pattern coherent across segments.
+DB5,"DB5 is a posterior-midbody member of the DB cholinergic motor class. By innervating dorsal muscles, it supports forward propulsion and helps preserve the phase relationship between dorsal and ventral bends. DB5's position contributes to handing off the locomotor wave from anterior to posterior units without loss of amplitude or timing."
+DB6,DB6 is a posterior DB-class cholinergic motor neuron that excites dorsal body-wall muscles during forward locomotion. It works with DB5 and DB7 to complete the posterior portion of the forward-moving wave. Its stereotyped connections help ensure that body bends remain coordinated as the wave approaches the tail.
+DB7,DB7 is the most posterior DB cholinergic motor neuron. It innervates dorsal muscles in the tail region and provides the terminal segment of dorsal drive during forward movement. DB7's outputs help finish the locomotor cycle and maintain waveform integrity at the posterior tip.
+DD1,"DD1 is the most anterior member of the DD class of GABAergic inhibitory motor neurons. It inhibits dorsal body-wall muscles to balance excitatory drive from cholinergic motor neurons, shaping the alternation of dorsal and ventral bends. DD1's early-born identity and stereotyped remodeling during development make it a landmark for studies of synaptic rewiring."
+DD2,DD2 is a GABAergic dorsal D-class motor neuron that inhibits dorsal muscles in the anterior body. It contributes to proper dorsal-ventral alternation during locomotion by tempering cholinergic excitation. DD2 participates in the developmental switch in which DD neurons remodel their synapses as the locomotor circuit matures.
+DD3,"DD3 is a mid-anterior DD-class GABAergic motor neuron providing inhibition to dorsal body-wall muscles. It helps set the timing and amplitude of dorsal bends by opposing excitatory cholinergic input, thereby stabilizing the locomotor waveform. Its consistent morphology and synaptic pattern aid comparative analyses across animals."
+DD4,"DD4 is a mid-body GABAergic motor neuron of the DD class that inhibits dorsal muscles. By balancing the output of DA/DB excitatory neurons, DD4 promotes smooth, alternating body bends required for effective locomotion. It participates in the characteristic developmental remodeling shared by DD neurons."
+DD5,"DD5 is a posterior DD-class GABAergic motor neuron providing inhibition to dorsal muscles in the posterior body. Together with other DD neurons, it limits over-excitation and helps maintain phase opposition between dorsal and ventral contractions as the locomotor wave approaches the tail."
+DD6,"DD6 is the most posterior DD-class GABAergic motor neuron. It delivers inhibitory input to dorsal muscles near the tail, completing the dorsal inhibitory array. DD6 safeguards proper termination of the locomotor wave by preventing runaway contraction at the posterior tip."
+DVA,"DVA is a single posterior interneuron with modulatory influence over locomotion. Positioned to integrate signals from the tail, it provides feedback to ventral-cord motor circuits and can adjust bend amplitude or posture based on body state. Its connectivity suggests a proprioceptive-like role that links sensory context to motor output."
+DVB,"DVB is a polymodal neuron with both interneuron and motor characteristics embedded in the enteric motor program. It drives the expulsion phase of the defecation cycle by activating posterior gut muscles and also receives rhythmic inputs from upstream timing elements. Through this dual role, DVB couples internal rhythmic generators to effector activity in the hindgut."
+DVC,"DVC is a posterior interneuron that links tail-region signals to broader motor control networks. It relays and shapes information flowing between local posterior circuits and upstream interneurons, contributing to posture control and adjustments to locomotor output. DVC's position allows it to integrate tail sensory context with whole-body motor commands."
+FLPL,"FLPL is a mechanosensory neuron located in the anterior lateral region of the head. It is part of a bilateral pair derived from the 'FLAP' lineage, responding to gentle mechanical stimuli. FLPL contributes to head touch sensation and may also have roles in proprioceptive feedback. Its ciliated sensory ending and specialized sheath indicate adaptation for mechanical transduction."
+FLPR,"FLPR is the right-side counterpart of FLPL, forming part of the bilateral FLP mechanosensory neuron pair. It detects gentle mechanical stimulation on the head and transmits signals through the amphid sensilla. FLPR's sensory processes end in specialized cilia surrounded by support cells, and together with FLPL, it mediates head touch and positional awareness."
+HSNL,HSNL is a left hermaphrodite-specific motor neuron situated in the ventral midbody. It innervates vulval muscles to control egg laying and receives input from serotonergic and sensory circuits that modulate reproductive behavior. HSNL also releases neurotransmitters and peptides that coordinate vulval and body wall muscle activity during egg release.
+HSNR,HSNR is the right-side hermaphrodite-specific motor neuron complementing HSNL. It projects processes along the ventral cord to the vulval region and regulates egg-laying muscle contractions. HSNR participates in the bilateral coordination of the reproductive motor circuit and interacts with serotonergic modulators to time egg release.
+I1L,I1L is a left pharyngeal interneuron that connects sensory inputs from the head to the pharyngeal nervous system. It modulates pharyngeal pumping by relaying signals from external stimuli to motor neurons controlling the pharynx. Its synaptic position allows integration of environmental cues with feeding rhythm control.
+I1R,"I1R is the right homolog of I1L, functioning as a pharyngeal interneuron that modulates feeding activity. It relays information between head sensory neurons and pharyngeal motor circuits, contributing to the adaptive regulation of pump rate based on external conditions. I1R works in coordination with I1L to synchronize bilateral pharyngeal responses."
+I2L,I2L is a left pharyngeal interneuron positioned near the anterior pharynx. It senses internal mechanical or chemical cues and modulates pharyngeal muscle activity to fine-tune feeding behavior. I2L provides inhibitory or excitatory input to other pharyngeal neurons to regulate the timing of the pumping cycle.
+I2R,I2R is the right pharyngeal interneuron partner to I2L. It conveys feedback from the pharyngeal lumen and helps modulate contraction timing during feeding. I2R's connections suggest involvement in both sensory processing and motor control of the pharyngeal apparatus.
+I3,"I3 is a central pharyngeal interneuron that coordinates anterior and posterior pharyngeal muscle contractions. It acts as a timing element in the pharyngeal rhythm generator, synchronizing pumping with isthmus and terminal bulb movements. I3's inputs and outputs connect sensory feedback with rhythmic motor neurons."
+I4,"I4 is a pharyngeal interneuron near the metacorpus region. It participates in regulating pumping cessation in response to inhibitory signals, linking sensory feedback with feeding suppression under adverse conditions. I4's synapses suggest a modulatory influence on both excitatory and inhibitory pharyngeal circuits."
+I5,I5 is a mixed-function pharyngeal neuron acting as both interneuron and sensory cell. It monitors mechanical conditions within the pharynx and transmits this information to coordinate muscle contractions. I5's activity correlates with feeding rhythm modulation and may play a role in integrating internal stretch feedback with motor control.
+I6,I6 is a posterior pharyngeal interneuron that relays signals between anterior motor neurons and terminal bulb regions. It helps maintain coordinated contraction sequences across the pharynx. I6's strategic placement allows it to couple sensory feedback from swallowed material with motor output for effective transport.
+IL1DL,IL1DL is a left dorsal lateral polymodal sensory neuron involved in mechanosensation around the head. It detects touch and deformation at the head cuticle and may also encode head posture. Its extensive processes in the head region make it a component of both sensory and proprioceptive systems.
+IL1DR,IL1DR is the right dorsal lateral counterpart to IL1DL. It senses gentle mechanical stimuli on the head and transduces them into signals that modulate head motor circuits. IL1DR's bilateral symmetry with IL1DL supports coordinated tactile and proprioceptive responses.
+IL1L,"IL1L is a left lateral polymodal neuron in the inner labial sensillum. It responds to mechanical and possibly thermal stimuli on the anterior surface, integrating into the head touch network. IL1L's processes link peripheral sensory input to interneurons controlling head movements."
+IL1R,"IL1R is the right lateral analog of IL1L, functioning as a polymodal mechanosensory neuron in the inner labial sensillum. It participates in tactile sensing and local feedback for head orientation. Together with IL1L, it ensures balanced bilateral input to anterior motor systems."
+IL1VL,IL1VL is a left ventral polymodal sensory neuron located in the inner labial sensillum. It detects touch and deformation at the ventral head surface and may provide feedback to control ventral head bends. Its morphology supports dual mechanosensory and proprioceptive functions.
+IL1VR,IL1VR is the right ventral member of the IL1 polymodal sensory set. It detects gentle ventral mechanical stimuli and communicates with ventral motor neurons to adjust head motion. IL1VR complements IL1VL to ensure symmetric ventral touch responses.
+IL2DL,"IL2DL is a left dorsal labial sensory neuron thought to be primarily chemosensory, possibly responsive to environmental odorants near the head. It extends ciliated dendrites to the labial sensillum surface and participates in low-intensity chemical detection."
+IL2DR,"IL2DR is the right dorsal labial neuron of the IL2 group. It contributes to chemosensory detection near the anterior head region, transmitting information about ambient chemical gradients. IL2DR's structure suggests sensitivity to soluble or volatile compounds."
+IL2L,IL2L is a left lateral inner labial sensory neuron with putative chemosensory function. It helps detect local chemical cues that may influence orientation or feeding behavior. IL2L's processes and cilia are positioned to sense the immediate environment around the mouth.
+IL2R,"IL2R is the right lateral IL2 sensory neuron, complementing IL2L. It participates in bilateral chemical detection around the oral cavity and contributes to stimulus localization during chemotaxis. IL2R's morphology supports detection of environmental cues near the anterior surface."
+IL2VL,IL2VL is a left ventral labial sensory neuron belonging to the IL2 group. It likely detects low-concentration soluble chemicals and provides input to circuits regulating head movement and exploratory behavior.
+IL2VR,"IL2VR is the right ventral labial sensory neuron of the IL2 group. It mirrors IL2VL in morphology and function, contributing to bilateral chemical sensing near the ventral mouth region. Its output supports symmetry in head orientation during chemotactic navigation."
+LUAL,LUAL is a left interneuron located in the lateral head ganglion. It integrates inputs from anterior sensory neurons and contributes to higher-order processing of chemotactic and mechanosensory signals. LUAL's projections connect to motor and modulatory circuits that adjust body posture and locomotor state.
+LUAR,"LUAR is the right homolog of LUAL, serving as an interneuron that processes sensory information from the head. It participates in integrating signals from multiple modalities to influence downstream motor neurons. LUAR works in tandem with LUAL to provide bilateral coordination of sensory processing in the head ganglia."
+M1,M1 is a pharyngeal motor neuron near the anterior corpus that helps initiate and coordinate pharyngeal pumping. It integrates inputs related to food presence and recruits the pharyngeal musculature to open and begin each pumping cycle.
+M2L,"M2L is the left anterior pharyngeal motor neuron that excites corpus muscles to sustain rhythmic pumping. Working bilaterally with M2R, it keeps early-phase contractions symmetrical and adapts pump rate to sensory context."
+M2R,"M2R is the right counterpart to M2L, activating anterior pharyngeal muscles to maintain pump rhythm. Together, M2 neurons synchronize contraction timing across the corpus."
+M3L,"M3L is a left pharyngeal motor neuron with proprioceptive features that provides timed inhibition to shorten pump duration. By sensing internal stretch, it helps define the relaxation phase of each cycle."
+M3R,"M3R is the right member of the M3 pair, supplying inhibitory feedback that refines the pharyngeal rhythm. It partners with M3L to tune the contraction-relaxation sequence for efficient ingestion."
+M4,M4 is a motor neuron of the isthmus/terminal bulb that assists in transferring food from the pharynx to the intestine. It coordinates posterior pharyngeal muscle contractions with anterior pumping to sustain throughput.
+M5,M5 is a posterior pharyngeal motor neuron that drives terminal bulb contractions and helps time the transition of material into the gut. It stabilizes overall rhythm by coupling posterior action with corpus pumping.
+MCL,MCL is the left metacorpus motor neuron that recruits muscle groups in the posterior corpus. It complements MCR to propagate the contraction wave smoothly from anterior to posterior regions of the pharynx.
+MCR,MCR is the right metacorpus motor neuron coordinating with MCL to produce symmetric corpus contractions. Its outputs help relay food toward the isthmus and terminal bulb.
+MI,MI is a single anterior pharyngeal motor neuron that contributes to opening the lumen at pump onset. It provides tonic excitation to support rhythmic pumping and integrates chemosensory cues linked to feeding.
+NSML,NSML is the left neuron of a pair in the pharyngeal nerve ring with motor and mechanosensory attributes. It modulates pharyngeal tone and fine control of pump strength in response to internal tension.
+NSMR,"NSMR is the right partner to NSML, contributing to proprioceptive modulation of pharyngeal musculature. Bilaterally, the pair balances contraction strength and maintains rhythmic integrity."
+OLLL,OLLL is a left outer labial sensory neuron that detects mechanical and chemical cues near the mouth. It relays anterior environmental information to head interneurons for orienting movements.
+OLLR,OLLR is the right outer labial sensory neuron complementing OLLL. It senses touch and chemical signals at the head surface and helps steer head posture and approach-avoid decisions.
+OLQDL,OLQDL is a left dorsal outer labial polymodal neuron with mechanosensory and interneuron roles. It detects gentle cuticular deformation and relays signals that shape head movement and posture.
+OLQDR,"OLQDR is the right dorsal counterpart to OLQDL, combining tactile sensing with local processing. It helps coordinate head positioning in response to light mechanical stimuli."
+OLQVL,OLQVL is a left ventral outer labial neuron that senses ventral head deformation and transmits signals to motor circuits controlling head bends. Its polymodal nature links touch input to movement.
+OLQVR,OLQVR is the right ventral outer labial neuron mirroring OLQVL. It contributes to ventral tactile feedback and balanced head orientation.
+PDA,PDA is a posterior sensory-motor neuron with mechanosensory and motor features. It provides proprioceptive feedback from the tail and assists in adjusting posterior body-wall muscle activity.
+PDB,PDB is a posterior motor neuron that innervates ventral body-wall muscles near the tail. It helps coordinate posterior bending and contributes to reversals and tail retraction.
+PDEL,PDEL is a left posterior lateral sensory neuron detecting mechanical deformation and tail curvature. It sends feedback to posterior circuits to refine posture during movement.
+PDER,"PDER is the right counterpart to PDEL, sensing tail mechanosensory cues and supporting balanced bilateral control of posterior motion."
+PHAL,PHAL is a left phasmid sensory neuron specialized for chemosensation at the tail. Its ciliated dendrite and sheath enable detection of soluble environmental cues relevant for avoidance and orientation.
+PHAR,PHAR is the right phasmid chemosensory neuron partnering with PHAL. It transmits posterior chemical information anteriorly to guide navigation decisions.
+PHBL,PHBL is a left phasmid sensory neuron that detects chemical stimuli and informs circuits controlling orientation and escape. Its axon projects forward to head ganglia.
+PHBR,PHBR is the right phasmid sensory neuron complementing PHBL. Together they provide bilateral chemical sensing of the posterior environment.
+PHCL,PHCL is a left posterior sensory neuron with suspected mechanosensory specialization. It reports tail cuticle deformation and contributes to proprioceptive feedback during bends.
+PHCR,"PHCR is the right analog of PHCL, sensing mechanical changes at the tail and relaying them to motor networks to preserve symmetry."
+PLML,PLML is a left posterior lateral mechanosensory neuron of the gentle touch circuit. It detects light touch along the tail and initiates withdrawal or steering responses.
+PLMR,PLMR is the right gentle touch neuron complementing PLML. It carries posterior tactile signals to interneurons that shape orientation and avoidance.
+PLNL,PLNL is a left posterior neuron likely serving interneuronal processing roles. It integrates signals from local sensors and helps coordinate posterior motor output.
+PLNR,PLNR is the right counterpart to PLNL with similar integrative functions in the posterior network. It supports bilateral balance in tail control.
+PQR,"PQR is a posterior neuron implicated in oxygen and mechanosensory signaling. It modulates locomotion and orientation under hypoxic or mechanical challenges, influencing tail posture."
+PVCL,PVCL is a left ventral cord interneuron that routes command interneuron signals to posterior motor neurons. It supports propagation of locomotor waves and transitions between forward and reverse movement.
+PVCR,PVCR is the right ventral cord interneuron complementing PVCL. It forms a bilateral pathway for transmitting motor-control signals through the ventral cord.
+PVDL,"PVDL is a left posterior lateral neuron with elaborate dendritic arbors that detect harsh touch and body bending. As a nociceptor-proprioceptor, it provides global feedback on body posture."
+PVDR,PVDR is the right harsh-touch/proprioceptive neuron matching PVDL. Its widespread branching enables detection of large-scale deformation for posture control.
+PVM,PVM is a ventral mechanosensory neuron in the posterior body that detects gentle touch. It contributes to avoidance behavior and communicates with interneurons that trigger withdrawal.
+PVNL,PVNL is a left posterior neuron with mixed interneuron-motor features. It integrates tail sensory input and modulates local muscle activity to adjust posture.
+PVNR,"PVNR is the right counterpart to PVNL, providing bilateral modulation of posterior musculature based on sensory feedback."
+PVPL,PVPL is a left posterior interneuron that relays tail sensory information to premotor networks. It helps refine posture adjustments and locomotor state transitions.
+PVPR,"PVPR is the right posterior interneuron complementing PVPL, ensuring symmetric relay of posterior sensory signals to locomotor circuits."
+PVQL,PVQL is a left posterior interneuron integrating inputs from tail sensors and communicating with command interneurons. It tunes locomotor patterning during exploration and escape.
+PVQR,"PVQR is the right counterpart to PVQL, providing parallel integration of posterior sensory signals and contributing to balanced motor control."
+PVR,PVR is a single posterior interneuron near the rectum that receives inputs from tail sensors and projects anteriorly. It serves as a conduit from posterior environment sensing to central circuits.
+PVT,PVT is a posterior ventral interneuron with neuroendocrine and developmental roles. It influences axon guidance and can modulate communication between posterior and anterior networks.
+PVWL,PVWL is a left posterior interneuron integrating mechanosensory and proprioceptive feedback. It coordinates with contralateral partners to maintain symmetric tail bends.
+PVWR,PVWR is the right posterior interneuron paralleling PVWL. It transmits posterior feedback to central pattern generators to preserve locomotor symmetry.
+RIAL,RIAL is a left ring interneuron that integrates head sensory inputs and relays them to motor control centers. It contributes to orientation and head-posture adjustments.
+RIAR,RIAR is the right ring interneuron complementing RIAL. It processes multimodal head sensory signals and communicates with downstream interneurons for coordinated responses.
+RIBL,RIBL is a left ring interneuron linking head sensory neurons to command interneurons for locomotion. It helps couple anterior sensation with global motor state.
+RIBR,"RIBR is the right counterpart of RIBL, supporting bilateral transmission of head sensory information to locomotor pathways."
+RICL,RICL is a left ring interneuron involved in integrating olfactory and thermosensory inputs. It relays adaptive signals that shape orientation to odors and temperature.
+RICR,"RICR is the right ring interneuron matching RICL in function, coordinating with it to produce balanced behavioral responses to chemical and thermal cues."
+RID,RID is a single dorsal ring interneuron that projects along the dorsal cord and releases neuromodulators affecting locomotion. It enhances forward movement and adjusts overall motor tone.
+RIFL,RIFL is a left ring interneuron connecting head sensory circuits to motor control pathways. It helps stabilize head posture and orchestrate turning in response to stimuli.
+RIFR,"RIFR is the right homolog to RIFL, providing parallel control of head posture and steering. It maintains bilateral coordination during head movements."
+RIGL,RIGL is a left ring interneuron that integrates mechanosensory and thermosensory information. It influences motor neurons controlling head and neck movement to track environmental gradients.
+RIGR,"RIGR is the right counterpart to RIGL, ensuring bilateral synchrony in anterior motor responses during gradient tracking."
+RIH,RIH is an unpaired serotonergic ring interneuron that modulates head and body motor tone. It links sensory circuits to serotonergic state control and influences locomotor vigor.
+RIML,"RIML is a left ring motor neuron with extensive outputs to command and motor circuits. It participates in turning, head retraction, and rapid state changes, including tyramine-mediated escape responses."
+RIMR,RIMR is the right ring motor neuron complementing RIML. It modulates locomotor state and head dynamics and contributes to fast behavioral switches.
+RIPL,"RIPL is a left interneuron bridging pharyngeal and somatic rings, coordinating feeding with body movements. It relays timing cues so that locomotion and ingestion remain synchronized."
+RIPR,"RIPR is the right counterpart of RIPL, providing bilateral coupling between pharyngeal and somatic motor systems for efficient food intake during motion."
+RIR,RIR is an unpaired ring interneuron that integrates cross-modal head sensory inputs and adjusts arousal-like gain on downstream pathways.
+RIS,"RIS is a ring interneuron associated with quiescent, sleep-like states. It releases inhibitory transmitters and peptides to suppress activity and promote whole-body rest."
+RIVL,RIVL is a left polymodal ring neuron with interneuron and motor features that modulates head bends and steering. It translates sensory context into coordinated muscle activity for directional changes.
+RIVR,"RIVR is the right partner to RIVL, contributing to steering and head-bend control with parallel connections to ventral motor output."
+RMDDL,RMDDL is a left dorsal ring motor neuron that activates dorsal head muscles during upward bends. It works with RMDDR to maintain symmetry in dorsal head movements.
+RMDDR,RMDDR is the right dorsal ring motor neuron complementing RMDDL. It excites dorsal head muscles to preserve balanced oscillations.
+RMDL,RMDL is a left ring motor neuron innervating muscles around the head and mouth to generate dorsal-ventral bends. It contributes to exploratory head movements and feeding-associated motions.
+RMDR,RMDR is the right ring motor neuron counterpart to RMDL. It supports fine-tuned head bending and orientation during exploration.
+RMDVL,RMDVL is a left ventral ring motor neuron that contracts ventral head muscles for downward bends. It cooperates with dorsal counterparts for smooth oscillatory cycles.
+RMDVR,"RMDVR is the right ventral ring motor neuron with similar functions, securing symmetry in ventral head movement."
+RMED,RMED is an unpaired dorsal ring motor neuron that contributes to lifting the head dorsally. It may integrate proprioceptive signals to bias dorsal bends when needed.
+RMEL,RMEL is a left ring motor neuron innervating anterior head muscles for subtle oscillations during scanning. It stabilizes head movement patterns during locomotion.
+RMER,"RMER is the right analog of RMEL, coordinating anterior head muscle contractions to maintain bilateral oscillation symmetry."
+RMEV,RMEV is an unpaired ventral ring motor neuron driving ventral head muscle contractions. It antagonizes dorsal RME neurons to create balanced cycles.
+RMFL,"RMFL is a left ring motor neuron associated with head flexion and lateral bends. In conjunction with RMFR, it supports exploratory scanning and directional head turns."
+RMFR,"RMFR is the right partner to RMFL, controlling lateral head flexion on the right side. Together they enable symmetric lateral scanning and turning."
+RMGL,RMGL is a left ring interneuron that helps integrate multimodal head sensory input with motor programs. It modulates activity in downstream circuits to shape orientation and exploratory strategies.
+RMGR,"RMGR is the right counterpart to RMGL, providing bilateral interneuronal control that balances head motor outputs in response to sensory context."
+RMHL,RMHL is a left ring motor neuron that contributes to head lifting and stiffness control at the anterior. It fine-tunes tonic muscle activation for posture.
+RMHR,"RMHR is the right ring motor neuron complementing RMHL, stabilizing head elevation and posture with bilaterally matched outputs."
+SAADL,SAADL is a left interneuron located in the anterior ventral nerve cord. It integrates signals from sensory neurons and participates in the coordination of head and neck movements.
+SAADR,"SAADR is the right interneuron counterpart to SAADL. It transmits bilateral sensory information to motor circuits, supporting coordinated anterior movement."
+SAAVL,SAAVL is a left head interneuron that links sensory and motor control circuits. It modulates anterior bending patterns and contributes to locomotor transitions.
+SAAVR,"SAAVR is the right homolog to SAAVL, providing symmetrical integration of sensory input for head and anterior body movement control."
+SABD,SABD is a dorsal interneuron in the anterior ventral cord that helps regulate head posture and locomotor rhythm. It transmits modulatory signals to adjacent motor neurons.
+SABVL,SABVL is a left interneuron connecting head sensory neurons with anterior ventral motor circuits. It plays a role in initiating forward motion.
+SABVR,"SABVR is the right counterpart to SABVL, contributing to balanced anterior muscle activation during forward locomotion."
+SDQL,SDQL is a left interneuron located posteriorly near the tail. It helps relay sensory information from tail mechanoreceptors to central circuits involved in movement correction.
+SDQR,"SDQR is the right counterpart of SDQL, functioning as a tail interneuron that processes sensory feedback and contributes to posterior posture control."
+SIADL,SIADL is a left head interneuron that integrates sensory inputs with anterior motor commands. It contributes to steering and fine control of head orientation.
+SIADR,"SIADR is the right homolog of SIADL, ensuring bilateral control of head orientation and synchronization with body movements."
+SIAVL,SIAVL is a left ventral head interneuron that modulates the output of motor neurons controlling anterior bending and retraction.
+SIAVR,"SIAVR is the right counterpart to SIAVL, maintaining symmetry of head and neck movements during exploration."
+SIBDL,SIBDL is a left dorsal interneuron linking anterior sensory neurons to the dorsal motor network. It contributes to upward bending coordination.
+SIBDR,"SIBDR is the right homolog of SIBDL, providing bilateral integration for dorsal muscle activation and anterior posture control."
+SIBVL,SIBVL is a left ventral interneuron that processes sensory inputs to shape ventral head bending patterns and locomotion transitions.
+SIBVR,"SIBVR is the right ventral interneuron complementing SIBVL, helping to maintain balanced ventral head motion."
+SMBDL,SMBDL is a left motor/interneuron hybrid in the head that drives dorsal muscle contractions and modulates turning. It connects to sensory and motor pathways controlling orientation.
+SMBDR,SMBDR is the right counterpart to SMBDL. It coordinates dorsal head bending and turning movements during exploration.
+SMBVL,SMBVL is a left ventral motor/interneuron controlling ventral head muscles. It contributes to ventral flexion and rhythmic head oscillation.
+SMBVR,"SMBVR is the right ventral motor/interneuron complementing SMBVL, ensuring symmetry in head flexion and oscillatory behavior."
+SMDDL,"SMDDL is a left motor/interneuron located in the ring, coordinating dorsal head muscle contraction and turning. It links with SMDVR for balanced motion."
+SMDDR,SMDDR is the right dorsal motor/interneuron counterpart to SMDDL. It participates in dorsal head control and directional turns.
+SMDVL,SMDVL is a left ventral motor/interneuron activating ventral head muscles. It contributes to oscillatory head movement and alignment with environmental cues.
+SMDVR,SMDVR is the right ventral motor/interneuron counterpart of SMDVL. It helps coordinate ventral muscle activation for symmetric head movement.
+URADL,URADL is a left anterior motor neuron innervating radial muscles near the mouth. It supports feeding motions and mouth opening coordination.
+URADR,"URADR is the right homolog of URADL, contributing to symmetric contraction of anterior muscles around the mouth."
+URAVL,URAVL is a left anterior motor neuron that controls radial head muscles for ventral flexion and stabilization during feeding.
+URAVR,"URAVR is the right counterpart to URAVL, maintaining symmetry in anterior muscle movement."
+URBL,URBL is a left interneuron near the head that connects anterior sensory circuits to motor neurons. It contributes to coordination of feeding-related muscle activity.
+URBR,"URBR is the right analog of URBL, functioning in anterior coordination and muscle control."
+URXL,URXL is a left oxygen-sensing neuron detecting environmental O₂ concentrations. It modulates locomotion and aggregation behavior according to oxygen levels.
+URXR,URXR is the right oxygen-sensing neuron complementing URXL. It helps maintain oxygen preference behavior by signaling to interneurons controlling locomotor state.
+URYDL,URYDL is a left dorsal sensory neuron in the head. It detects mechanical or chemical cues near the anterior cuticle and contributes to environmental perception.
+URYDR,URYDR is the right dorsal sensory neuron matching URYDL in detecting head-region mechanical and chemical stimuli.
+URYVL,"URYVL is a left ventral sensory neuron in the head, involved in detecting environmental contact and chemical gradients near the ventral mouth area."
+URYVR,URYVR is the right ventral sensory neuron complementing URYVL. It contributes to bilateral sensory feedback for anterior environmental detection.
+VA1,"VA1 is the most anterior of the VA motor neurons in the ventral cord, driving ventral muscle contractions during forward locomotion."
+VA10,VA10 is a posterior ventral cord neuron maintaining rhythmic ventral contractions in tail segments.
+VA11,VA11 assists in finalizing ventral muscle activity during locomotion and tail straightening.
+VA12,"VA12 is the terminal ventral cord motor neuron that innervates the most posterior muscles, completing the forward motor chain."
+VA2,VA2 is an anterior ventral cord motor neuron that helps propagate the forward locomotion wave by activating ventral muscles in sequence.
+VA3,VA3 is a motor neuron that innervates ventral muscles in the anterior segments and supports forward crawling rhythm.
+VA4,VA4 is a ventral motor neuron that coordinates midbody ventral contraction during forward motion.
+VA5,VA5 contributes to ventral wave propagation through its activation of body wall muscles in midbody segments.
+VA6,VA6 is a ventral cord motor neuron facilitating forward undulation by synchronizing ventral muscle contractions.
+VA7,"VA7 continues the ventral motor pattern posteriorly, ensuring smooth propagation of the locomotion wave."
+VA8,VA8 is a posterior ventral cord motor neuron coordinating ventral contractions near the tail during forward locomotion.
+VA9,VA9 is a tail-region ventral motor neuron completing the VA motor series for posterior forward movement.
+VB1,VB1 is the most anterior B-class ventral motor neuron initiating forward locomotion by exciting dorsal and ventral muscles in phase.
+VB10,"VB10 activates ventral muscles near the tail, finalizing the posterior phase of forward locomotion."
+VB11,"VB11 is the last of the B-class ventral motor neurons, ensuring rhythmic closure of forward locomotor waves."
+VB2,VB2 extends the forward locomotor drive posteriorly by coordinating ventral muscle contraction timing.
+VB3,VB3 is a midbody motor neuron that helps maintain rhythmic wave propagation during sustained forward motion.
+VB4,"VB4 provides ventral activation to midbody segments, contributing to consistent locomotor rhythm."
+VB5,"VB5 supports ventral muscle coordination in the posterior body, stabilizing forward crawling motion."
+VB6,"VB6 drives posterior ventral muscle contractions, maintaining phase coherence of locomotion waves."
+VB7,VB7 ensures continuity of ventral activation during forward movement in posterior segments.
+VB8,VB8 contributes to the tail-end propagation of ventral muscle contraction for smooth forward motion.
+VB9,"VB9 continues the B-class ventral motor neuron chain, coupling posterior motion to anterior rhythmic drive."
+VC1,VC1 is a hermaphrodite-specific ventral cord motor neuron controlling vulval muscles and modulating egg-laying contractions.
+VC2,"VC2 is a ventral cord motor neuron linked to egg-laying circuitry, coordinating with VC1 for local muscle activation."
+VC3,VC3 contributes to rhythmic vulval muscle activity and integrates input from HSN neurons to regulate timing.
+VC4,"VC4 is part of the egg-laying motor network, controlling vulval muscle contractions in synchrony with VC5 and VC6."
+VC5,VC5 works with adjacent VC neurons to control vulval muscle tone and timing of egg release.
+VC6,"VC6 is the posterior-most hermaphrodite-specific motor neuron, coordinating with HSNs and other VCs to complete the egg-laying motor sequence."
+VD1,VD1 is an inhibitory GABAergic motor neuron in the ventral cord that regulates ventral muscle relaxation during locomotion.
+VD10,"VD10 provides posterior inhibitory control to complete the locomotor cycle, ensuring balanced alternation of contraction and relaxation."
+VD11,"VD11 continues GABAergic inhibition in the tail, refining motor output during reversal and turning behaviors."
+VD12,VD12 modulates terminal inhibitory drive in tail segments for controlled relaxation at the locomotion endpoint.
+VD13,"VD13 is the final GABAergic motor neuron in the ventral cord, coordinating tail muscle inhibition to conclude movement cycles."
+VD2,"VD2 provides inhibitory control to anterior ventral muscles, balancing excitation from VB and VA neurons."
+VD3,"VD3 continues the inhibitory sequence along the body, stabilizing oscillatory muscle activity."
+VD4,VD4 modulates midbody ventral muscle relaxation to maintain smooth locomotion waves.
+VD5,VD5 ensures balance between dorsal and ventral contraction through targeted inhibition of ventral muscles.
+VD6,VD6 provides rhythmic inhibition to ventral musculature to prevent overexcitation during crawling.
+VD7,VD7 maintains posterior muscle coordination through inhibitory synapses onto ventral body-wall muscles.
+VD8,VD8 contributes to stable locomotion by synchronizing inhibition across posterior ventral segments.
+VD9,VD9 acts in the tail region to regulate ventral relaxation during the final phase of each locomotion wave.
