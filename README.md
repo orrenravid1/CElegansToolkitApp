@@ -117,7 +117,7 @@ The Anatomy and Data Viewer is broken down into 4 pieces:
 #### 2. 3D Connectome Navigation
 
 - The connectome uses **SWC** files generated from the detailed NeuroML model of the connectome in the [c302 repository](https://github.com/openworm/c302).  
-- The models are ball-and-stick where individual sections from the SWC file are represented as individual components. Each is 1-1 with the morphology found in the **Network Activity Viewer** in the **Simulation View**.
+- The models are ball-and-stick where individual sections from the SWC file are represented as individual components. Each is 1-1 with the morphology found in the [Network Activity Viewer](#2-neuron-simulation-and-live-network-activity-viewer) in the [Simulation Tool](2-simulation-tool).
 
 ##### Future Goals
 
@@ -167,11 +167,11 @@ a. **Control Sliders**
 - Changes will influence the simulation in real time.
 
 b. **Nervous System Viewer**  
-- A panel to view the live simulated compartmental model of the nervous system in 3D.  
+- A panel to view the live simulated compartmental model of the nervous system in 3D.
+- **NOTE**: This panel requires a substantial amount of extra setup in order to work. Setup is described in [Section 2](#local-setup-for-use-in-the-platform) of the developer information below.
 - **Right Click**: Rotates the 3D model of the nervous system.  
 - **Scroll Wheel**: Grows and shrinks the panel.  
 - **Left Click (Inside Panel Sphere)**: Closes the panel.  
-- **NOTE**: This panel requires a substantial amount of extra setup in order to work. Setup is described in Section 2 of the developer information below.
 
 c. **Analysis Panel**  
 - Click on each of the toggles to open up certain plots.  
@@ -279,7 +279,7 @@ This was an entirely proof-of-concept work. Nothing about this section is custom
 
 1. Obviously the sliders will need to map to arbitrary components of the simulation.  
 2. Beyond that, controls will need to be much more flexible than sliders, allowing for various forms of interaction depending on the research question of interest.  
-3. My particular objectives would be to map sliders to parameters in the biophysical simulation as described in the future goals of the **2. NEURON simulation and live network activity viewer** section.  
+3. My particular objectives would be to map sliders to parameters in the biophysical simulation as described in the future goals of the [NEURON simulation](#2-neuron-simulation-and-live-network-activity-viewer) section.  
    - I am interested in questions relating to neurotransmission and neuromodulation and thus my interest would be in manipulating those models live to see both the network activity and consequent behavioral results.
 
 ### 4. Live Plotting Tools
@@ -313,7 +313,7 @@ The LLM UI is there as a demonstration of the incorporation of LLM tooling into 
 1. For public users, there is no built-in access to an LLM. To get it working you will need to supply your own [OpenAI API Key](https://platform.openai.com/api-keys) (more information in the [Developer Quickstart section](https://platform.openai.com/docs/quickstart) of the OpenAI developer site).  
 2. Once you have your OpenAI API Key, make a folder in the directory:  
    `build/NeuronUnity_Data/StreamingAssets/` called `ApiKeys` and in it make a new file called `openaiapikey.txt`. There simply paste your API key directly.  
-   - If this worked, then in the toolkit, when you query the Chat, the bubble should show as **"Thinking..."**  
+   - If this worked, then in the toolkit, when you query the Chat, the bubble should show as **"(thinking...)"**  
    - If it failed, then you will see a `NullReferenceException` in the bubble.
 
 ### Developer Information
