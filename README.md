@@ -249,7 +249,7 @@ Unfortunately, the current setup depends on your global Python installation. Thi
 However, if you want to have this piece functional, you will need to:
 
 1. Ensure you have Python 3.11+.  
-2. Install NEURON to your global Python installation.  
+2. Install [NEURON](https://www.neuron.yale.edu/neuron/download) to your global Python installation.  
 3. Download this repository: <https://github.com/orrenravid1/CompartmentalNeuronGUI> and follow the installation instructions there.  
 4. Install all remaining requirements from the `requirements.txt` file in this repository via the pip command:  
    `pip install -r requirements.txt` in the root of this repository.
@@ -279,7 +279,7 @@ This was an entirely proof-of-concept work. Nothing about this section is custom
 
 1. Obviously the sliders will need to map to arbitrary components of the simulation.  
 2. Beyond that, controls will need to be much more flexible than sliders, allowing for various forms of interaction depending on the research question of interest.  
-3. My particular objectives would be to map sliders to parameters in the biophysical simulation as described in the future goals of the [NEURON simulation](#2-neuron-simulation-and-live-network-activity-viewer) section.  
+3. My particular objectives would be to map sliders to parameters in the biophysical simulation as described in the future goals of the [NEURON Simulation](#2-neuron-simulation-and-live-network-activity-viewer) section.  
    - I am interested in questions relating to neurotransmission and neuromodulation and thus my interest would be in manipulating those models live to see both the network activity and consequent behavioral results.
 
 ### 4. Live Plotting Tools
