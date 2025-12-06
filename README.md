@@ -17,7 +17,9 @@ The C. elegans Toolkit consists of 3 parts:
 
 You can either download or clone this repository. The app can be run in `build/NeuronUnity.exe` with a few caveats:
 
-- The app is currently compiled and accessible only for Windows. It is also currently in a proof of concept state. Bugs are to be expected. Also check the [General Information](#general-information) section below before beginning.  
+- The app is currently compiled and accessible only for Windows.
+- It is also currently in a proof of concept state. Bugs are to be expected.
+- Check the [General Information](#general-information) section below before beginning.  
 - The LLM UI will not be functional out of the box. See more info in the [LLM UI Section](#3-llm-ui).  
 - The live network simulation viewer will not be functional out of the box. See more info in the [Simulation Tool section](#2-simulation-tool).
 
