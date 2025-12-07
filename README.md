@@ -263,7 +263,7 @@ However, if you want to have this piece functional, you will need to:
    - Data coming from many aspects of the app including the biophysical simulation and user controls will need to be sent as part of the schema.  
    - A more generic API for data sending should also be considered that allows for other models outside of morphologically accurate biophysical neuron models.  
 3. Currently, the network data has no notion of clock-synchronization with the platform and, as such, the physics simulation in the app and the network simulation run at different timescales and out of sync. This would need to be a strong consideration when considering real architecture.  
-4. The short term desired goal is to get a NEURON simulation of the C. elegans motor system to correctly drive the biophysical model of C. elegans.
+4. The short term desired goal is to get a NEURON simulation of the C. elegans motor system to correctly drive the biomechanical model of C. elegans.
 
 ### 3. Control Sliders
 
