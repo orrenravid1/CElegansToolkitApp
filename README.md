@@ -21,7 +21,7 @@ You can either download or clone this repository. The app can be run in `build/N
 - It is also currently in a proof of concept state. Bugs are to be expected.
 - Check the [General Information](#general-information) section below before beginning.  
 - The LLM UI will not be functional out of the box. See more info in the [LLM UI Section](#3-llm-ui).  
-- The live network simulation viewer will not be functional out of the box. See more info in the [Simulation Tool section](#2-simulation-tool).
+- The live network simulation viewer will not be functional out of the box. See more info in the [NEURON Simulation section](#2-neuron-simulation-and-live-network-activity-viewer).
 
 ---
 
